@@ -1,3 +1,13 @@
 h2 {
-    color:indianred;
+    color:teal;
+    background-color: palevioletred;
+}
+
+button {
+    color: mediumseagreen;
+    background-color: yellow;
+}
+
+p {
+    color: orange;
 }
